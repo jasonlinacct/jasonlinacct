@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi  👋
 Welcome to my GitHub! I'm Jason, a college student into the field of computer science. Here you'll find a collection of projects that reflect my interests and skills. Feel free to explore and reach out if you have any questions or just want to connect!
 
 
