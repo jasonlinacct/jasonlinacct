@@ -1,4 +1,6 @@
 ## Hi there 👋
+Welcome to my GitHub! I'm Jason, a college student into the field of computer science. Here you'll find a collection of projects that reflect my interests and skills. Feel free to explore and reach out if you have any questions or just want to connect!
+
 
 <!--
 **jasonlinacct/jasonlinacct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
